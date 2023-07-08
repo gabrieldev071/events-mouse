@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Events </title>
+  <link rel="icon" href="./img/circle-dot-solid.svg">
+  <!-- Font Awesome -->
+
+  <script src="https://kit.fontawesome.com/78f50e1103.js" crossorigin="anonymous"></script>
+
+  <!-- CSS style -->
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet" />
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/78f50e1103.js" crossorigin="anonymous"></script>
+  <!-- script -->
+  <script src="js/main.js" defer></script>
+</head>
+
+<body>
+  <div class="container">
+    <main id="container__input">
+      <h2>Eventos de Mouse</h2>
+      <form id="form">
+        <div class="form-inputs">
+          <div class="form-control">
+            <label for="v1">Número maior:</label>
+            <input type="text" id="input1" placeholder="" />
+          </div>
+
+          <div class="form-inputs">
+            <div class="form-control">
+              <label for="v2">Número menor:</label>
+              <input  type="text" id="input2" placeholder="" />
+            </div>
+          </div>
+<!--           <button 
+          onMouseDown="evMouse('Mouse Down')"
+          onMouseUp="evMouse('Mouse Up')"
+          onFocus="evMouse('Mouse Focus')"
+          onBlur="evMouse('Mouse Bluer')"
+          onMouseOver="evMouse('Mouse Over')"
+          onDblClick="evMouse('Dougle Clique')"
+          onMouseMove="evMouse('Mouse Move')"
+          >Calcular
+        </button> -->
+         <button 
+         type="submit"
+          onMouseOver="evMouse(1)"
+          onDblClick="evMouse(2)"
+          onMouseOut="evMouse(3)"
+          onClick="evMouse(4)"
+          >
+          Calcular
+        </button>
+      </form>
+      <div class="form-control" id="resultado">
+        <label for="inputResult">Resultado:</label>
+      </div>
+    </main>
+  </div>
+  <footer class="container__footer">
+    <p>Desenvolvido por <a class="container--link"
+        href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank"
+        rel="noopener noreferrer"> Gabriel Souza</a> - Copyright 2023 ©. Todos os direitos reservados.
+      </a>
+    </p>
+    <p style="text-align: center;">Repositório Github:
+      <a href="#" class="container_footer--github" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-github"></i>
+    </p>
+  </footer>
+</body>
+
+</html>
