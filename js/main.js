@@ -18,7 +18,7 @@ function evMouse(e) {
 
     switch (e) {
       case 1:
-        res.innerHTML = "A soma é:  " + v1 + v2
+        res.innerHTML = "A soma é:  " + (v1 + v2);
         break;
       case 2:
         console.log(v1, v2);
