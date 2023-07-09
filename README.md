@@ -8,7 +8,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Uma aplicação web onde é possível que o usuário calcule seu IMC (índice de Massa Corporal) e tenha um feedback em tempo real sobre sua classificação na tabela IMC segundo a OMS (Organização Mundial de Saúde). O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, métodos de funções, objetos, eventos e lógica de validação com JavaScript puro. </p>
+<p>Uma aplicação web onde é possível que o usuário digite dois números e consiga realizar operações de matemáticas básica como (soma, subtração, multiplicação e divisão) com base nos eventos/movimentos do mouse sobre um botão. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do MOUSE com JavaScript. </p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
@@ -20,18 +20,17 @@
 
 <h2>💻 Deploy:</h2>
 
-- Visite o projeto online: [custom-imc-calculator](https://gabrieldev071.github.io/custom-imc-calculator/)
+- Visite o projeto online: [events-mouse]([https://gabrieldev071.github.io/events-mouse/])
 
 <h2 id="layout">🔖 Layout:</h2> 
 
-Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode visualizar a paletra de cores do projeto através [DESSE LINK](https://uicolors.app/create). A cor que deu origem a paletra de cores é #8514E1.
+Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode visualizar a paletra de cores do projeto através [DESSE LINK](https://uicolors.app/create). A cor que deu origem a paletra de cores é #16CFCF.
 
 <h2 id="elementosprincipais">Elementos principais da página:</h2>
 
 ```
-[1] Um sessão onde é possível que o usuário preenchar seus dados (nome, altura e peso) e possa clicar em 2 botões (calcular e limpar)
-[2] Uma sessão onde é visualizada o resultado e tabela de classificação do IMC e um botão para limpar informações
-[3] Uma sessão de contato/direitos autorais (footer)
+[1] Um sessão onde é possível que o usuário preenchar 2 campos de entrada de dados (primeiro número e segundo número) e possa clicar em um botão (calcular)
+[2] Uma sessão de contato/direitos autorais (footer)
 ```
 <h2 id="tecnologias-ferramentas">Tecnologias & Ferramentas:</h2>
 
@@ -49,24 +48,23 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
         - Captura elementos html da page com querySelector através DOM.
         - Manipulação do CSS através do JS/DOM.
         - Manipulação de classes com JS.
-        - Utilização de funções e métodos de funções.
-        - Utilização de condicionais if e else.
+        - Utilização de funções
+        - Utilização de condicionais switch.
         - Manipulação strings de acordo com input do usuário.
-        - Identificar o alvo de eventos utilizando a propriedade target.
-        - Utilizar o atributo parentElement para navegar na estrutura do DOM e acessar elementos pai
 
 - HTML5:
 
-        - Tags como section, div, span, footer, nav, ul button, img, a,  h1, p, input.
+        - Tags como section, div, span, footer, nav, ul button, img, a,  h1, p, input, label.
         - Adicionar mais de um nome de classe a um elemento html.
-        - Adicionar link de fonte padrão a ser utilizada na aplicação na sessão head do index.html.
+        - Adicionar link de fontes padrão a ser utilizada na aplicação na sessão head do index.html.
         - Adicionar link de estilos a ser utilizado na aplicação na sessão head index.html.
+        - Adicionar API de icons (Font Awesome) a ser utilizada na aplicação na sessão head do index.html
 
 - CSS3:
 
         - Variáveis no CSS.
         - Reaproveitamenteo do código.
-        - Responsividade (medidaqs relativas e para telas diferentes)
+        - Responsividade (medidas relativas e para telas diferentes)
         - Utilização do flexbox.
         - Uso de paleta de cores.
         - Utilização pseudo-elementos e pseudo-classes.
