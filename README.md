@@ -20,7 +20,7 @@
 
 <h2>💻 Deploy:</h2>
 
-- Visite o projeto online: [events-mouse]([https://gabrieldev071.github.io/events-mouse/])
+- Visite o projeto online: [events-mouse](https://gabrieldev071.github.io/events-mouse/)
 
 <h2 id="layout">🔖 Layout:</h2> 
 
