@@ -12,7 +12,7 @@
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
-<img src="./img/events-mouse-demo.png" alt="demo do projeto events-mouse-demor">
+<img src="./img/events-mouse-demo.png" alt="demo do projeto events-mouse-demo">
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
@@ -72,7 +72,7 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 
 <h3> Badge de conclusão do projeto: </h3> 
 
-<img src="./img/badge_challenge_portfolio.png">
+<img src="./img/badge_challenge">
 
 <h3 id="contato">Minhas redes e contato: </h3> 
 
