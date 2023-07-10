@@ -8,7 +8,15 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Uma aplicação web onde é possível que o usuário digite dois números e consiga realizar operações de matemáticas básica como (soma, subtração, multiplicação e divisão) com base nos eventos/movimentos do mouse sobre um botão. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do MOUSE com JavaScript. </p>
+<p>Uma aplicação web onde é possível que o usuário digite dois números e consiga realizar operações de matemáticas básica como (soma, subtração, multiplicação e divisão) com base nos eventos/movimentos do mouse sobre um botão. A lógica funciona da seguinte forma: 
+
+onMouseOver -----> Soma
+onDbClick -----> Subtrair
+onMouseOut-----> Dividir
+onClick -----> Multiplicar 
+
+O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do MOUSE com JavaScript.
+</p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
@@ -16,7 +24,7 @@
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
-<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização seguindo um padrão de cores</strong> e também pude compreender melhor como a manipulação de DOM, funções e eventos em<strong> JavaScript</strong>são implementados.</p>
+<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização seguindo um padrão de cores</strong> e também pude compreender melhor como a manipulação de DOM, funções e eventos em<strong> JavaScript</strong>.</p> 
 
 <h2>💻 Deploy:</h2>
 
