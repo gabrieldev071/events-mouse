@@ -10,10 +10,10 @@
 
 <p>Uma aplicação web onde é possível que o usuário digite dois números e consiga realizar operações de matemáticas básica como (soma, subtração, multiplicação e divisão) com base nos eventos/movimentos do mouse sobre um botão. A lógica funciona da seguinte forma: 
 
-onMouseOver -----> Soma
-onDbClick -----> Subtrair
-onMouseOut-----> Dividir
-onClick -----> Multiplicar 
+onMouseOver -----> Soma,
+onDbClick -----> Subtrair,
+onMouseOut-----> Dividir e
+onClick -----> Multiplicar
 
 O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do MOUSE com JavaScript.
 </p>
