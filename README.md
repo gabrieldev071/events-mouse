@@ -8,7 +8,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Uma aplicação web onde é possível que o usuário digite dois números e consiga realizar operações de matemáticas básica como (soma, subtração, multiplicação e divisão) com base nos eventos/movimentos do mouse sobre um botão. A lógica funciona da seguinte forma: 
+<p>Uma aplicação web onde é possível que o usuário digite dois números e consiga realizar operações de matemáticas básica (soma, subtração, multiplicação e divisão) com base nos eventos/movimentos do mouse sobre um botão. A lógica funciona da seguinte forma: 
 
 onMouseOver -----> Soma,
 onDbClick -----> Subtrair,
