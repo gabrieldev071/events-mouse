@@ -63,6 +63,7 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 - HTML5:
 
         - Tags como section, div, span, footer, nav, ul button, img, a,  h1, p, input, label.
+        - Uso padrão de nomeclatura de classes no HTML com metodologia (BEM)
         - Adicionar mais de um nome de classe a um elemento html.
         - Adicionar link de fontes padrão a ser utilizada na aplicação na sessão head do index.html.
         - Adicionar link de estilos a ser utilizado na aplicação na sessão head index.html.
